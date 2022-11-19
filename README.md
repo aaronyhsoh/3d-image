@@ -1,4 +1,4 @@
-# Graphics-rendering
+# Render Image
 
 Upload the txt files given in the folder "data" to render the image. 
 Use arrow keys to rotate the image and WASD keys to move it.
